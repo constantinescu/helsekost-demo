@@ -15,9 +15,9 @@ The design is built around:
 
 Project Objectives
 
-    My goal was to design a welcoming, professional page that could serve as their digital presence if they choose to use it later.
+    To design a welcoming, professional page that could serve as their digital presence if they choose to use it later.
     
-    Create a static site that can be expanded later into a dynamic site (with blog, booking system, database, etc.)
+    Create a static site that can be expanded later into a dynamic site.
 
 Deployment
 
@@ -34,5 +34,6 @@ This project represents a real-world exercise combining:
     Web development skills
 
     Research through public information (Facebook)
-    
+
+    Developing my ability to leverage AI technologies (Claude.ai, ChatGPT) - a key skill in modern web development
 
