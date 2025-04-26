@@ -13,7 +13,7 @@ The design is built around:
 
     ℹ️ Public information collected from their official Facebook page
 
-🎯 Project Objectives
+Project Objectives
 
     My goal was to design a welcoming, professional page that could serve as their digital presence if they choose to use it later.
     
@@ -21,11 +21,9 @@ The design is built around:
 
 Deployment
 
-The project is currently hosted via GitHub Pages:
+The project is currently hosted via GitHub Pages: 👉 View Live Website (https://constantinescu.github.io/helsekost-demo/)
 
-👉 View Live Website
-
-📋 Notes
+Notes
 
 This project represents a real-world exercise combining:
 
