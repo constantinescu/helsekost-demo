@@ -3,7 +3,7 @@ Project Story - Made with ❤️ by Marina Constantinescu
 
 This project started from a simple, real-world moment:
 When a local shop, Øbro Helsekost Rehabilitering Klinik, closed in my neighborhood, I asked the owners if they had a website where I could find them again in the future.
-They didn't — but they gave me their business card.
+They didn't — but they gave me their business card that inspired me build a static site page that could serve as their digital presence if they choose to use it later.
 
 The design is built around:
 
@@ -11,13 +11,7 @@ The design is built around:
 
     📸 A nature-themed hero image (captured during a personal walk)
 
-    ℹ️ Public information collected from their official Facebook page
-
-Project Objectives
-
-    To design a welcoming, professional page that could serve as their digital presence if they choose to use it later.
-    
-    Create a static site that can be expanded later into a dynamic site.
+    ℹ️ Public information collected from their official Facebook page 
 
 Deployment
 
